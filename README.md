@@ -1,7 +1,7 @@
-# A* Shortest Path Algorithm for 2D Grid World
+# A* Path Finding Algorithm for 2D Grid World
 ## AIM
 
-To develop a code to find the shortest route from the source to the destination point using A* algorithm for 2D grid world.
+To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
 
 ## THEORY
 Explain the problem statement
