@@ -1,35 +1,32 @@
-# A* Path Finding Algorithm for 2D Grid World
-## AIM
+## EX NO:04
+## DATE:17.05.2022
+# <p align="center">A* Path Finding Algorithm for 2D Grid World</p>
+## AIM:
 To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
-
-## THEORY
+## THEORY:
 A* works by making a lowest-cost path tree from the start node to the target node using heuristic function.A* search is a combination of lowest-cost-first and best-first searches that considers both path cost and heuristic information in its selection of which path to expand.A* uses a function f (n)= g(n)+h(n) that gives an estimate of the total cost of a path using that node.
-
-## DESIGN STEPS
-
+## DESIGN STEPS:
 ### STEP 1:
 Import the required packages.
-
 ### STEP 2:
 Create a class with the appropriate functions.
-
 ### STEP 3:
 Build a 2D grid world with initial state , goal state and obstacles.
-
 ### STEP 4:
 Define a method for heuristic function.
-
 ### STEP 5:
 Pass the values for the grid problem.
-
 ### STEP 6:
 Print the solution.
 
 ## Draw the 2D 
 ![Capture3](https://user-images.githubusercontent.com/75234588/168871080-ebc9b855-a54b-4e76-8397-e9b8c109dc73.PNG)
 
-
 ## PROGRAM
+```
+Developed by: Vincent Isaac Jeyaraj J
+Register  No:  212220230060
+```
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
